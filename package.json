@@ -23,7 +23,7 @@
   "license": "MIT",
   "bin": "jison2json.js",
   "dependencies": {
-    "ebnf-parser": "0.0.1",
-    "lex-parser": "0.0.1"
+    "ebnf-parser": "*",
+    "lex-parser": "*"
   }
 }
